@@ -1,5 +1,5 @@
-# TEAM 52 : Spykers | ntx-hack-23
-Repository for Team 52's submission to NTX Hackathon 2023.
+# TEAM 51 : Spykers | ntx-hack-23
+Repository for Team 51's submission to NTX Hackathon 2023.
 
 ## Objective: Testing if EEG can be used to deduce Focus
 
